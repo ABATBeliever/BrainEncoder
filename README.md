@@ -1,4 +1,4 @@
-#BrainEncoder
+##BrainEncoder
 
 This is a file that encodes a video file and makes it lightweight so that it can be played back in TCPMP<br>
 *ffmpeg is required<br>
